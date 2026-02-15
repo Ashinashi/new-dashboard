@@ -1,9 +1,9 @@
 import DashboardLayout from "../components/DashboardLayout";
 import MetricCard from "../components/MetricCard";
 import AccumulatedCostChart from "../components/AccumulatedCostChart";
-import { ArrowUp } from "lucide-react";
+import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight, Download, Check, ArrowUp, FileText } from 'lucide-react';
 
-import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight, Download, Check, ArrowUpRight, FileText } from 'lucide-react';
+
 
 export default function Home() {
   return (
